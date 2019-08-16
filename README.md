@@ -6,6 +6,8 @@ Event Partner with [AWS User Group Myanmar](https://www.facebook.com/awsugmm/) -
 
 Event Description
 ---
+![event image](event.jpg)
+
 ချိတ်ဆက်က ကျင်းပမယ့် Capacity Development Series: Episode 3 အစီအစဉ်နှင့် အတူ လက်တွဲလုပ်မယ့် partnerကတော့ AWS Users Group Myanmar ပဲ ဖြစ်ပါတယ်။Amazon Web Services (AWS) ဆိုတာက
 
 > Infrastructure as a Service (IaaS), 
